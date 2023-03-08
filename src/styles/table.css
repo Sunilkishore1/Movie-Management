@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(252, 230, 203);
+}
+table{
+    margin-left: 350px;
+    background-color:rgba(255, 255, 255, 0.348);
+    margin-top:100px;
+    box-sizing: border-box;
+    border-radius: 0.5cm;
+    height: auto;
+    width: 700px;
+    padding-left: 50px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Add{
+    float: right;
+    padding: 10px;
+    margin-right: 30px;
+    /* margin-top: -20px; */
+    border: none;
+    color:rgb(248,247,229);
+    background-color:rgb(5,57,107)
+} 
+
+#outter{
+    display: flex;
+    justify-content: center;
+}
+
+th,td{
+    padding: 10px;
+    margin: 10px;
+}
+td button{
+    margin: 4px;
+    background-color: rgb(5,57,107);
+    color:rgb(248,247,229);
+}
+.sort{
+    padding: 10px;
+    background-color: rgb(5,57,107);
+    color:rgb(248,247,229);
+    float:right;
+    margin-top: 10px;
+    margin-right: 400px;
+}
+

@@ -1,0 +1,19 @@
+list{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+li{
+    width: 400px;
+    padding: 20px;
+    padding-left: 20px;
+    font-size: x-large;
+}
+ul{
+    background-color: rgba(240, 248, 255, 0.627);
+    
+    box-sizing: border-box;
+    border: 1px ;
+    border-radius: 0.5cm;
+}
